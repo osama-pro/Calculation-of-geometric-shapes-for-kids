@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">cal_1</string>
+    <string name="textview">TextView</string>
+</resources>
